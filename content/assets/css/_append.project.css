@@ -3,14 +3,14 @@
   --ig-right: right;
 
   --ig-status-text-color: maroon; /* 1. IG Title and status text color */
-  --navbar-bg-color: #7b1fad; /* 2. Header container color */
-  --footer-bg-color: #707070; /* 3. Footer background color*/
-  --footer-container-bg-color: #7b1fad; /* 4. Footer container color */
-  --stripe-bg-color: #999999; /* 5. Header strip color */
+  --navbar-bg-color: #7b1fad !important; /* 2. Header container color */
+  --footer-bg-color: #707070 !important; /* 3. Footer background color*/
+  --footer-container-bg-color: #7b1fad !important; /* 4. Footer container color */
+  --stripe-bg-color: #999999 !important; /* 5. Header strip color */
 
-  --btn-hover-color: #9b2fdd;  /* 6. Menu button hover color */
-  --btn-active-color: #da0c23; /* 7. Menu button active color */
-  --btn-text-color: #e6e6e6; /* 8. Menu button text color */
+  --btn-hover-color: #9b2fdd !important;  /* 6. Menu button hover color */
+  --btn-active-color: #da0c23 !important; /* 7. Menu button active color */
+  --btn-text-color: #e6e6e6 !important; /* 8. Menu button text color */
   --btn-gradient-start-color: #428bca; /* 9. Menu item gradient start color */
   --btn-gradient-end-color: #357ebd; /* 10. Menu item gradient end  color */
   --btn-gradient-start-color-alpha: #ff428bca; /* 11. Menu item gradient start color (with alpha) */
@@ -24,8 +24,8 @@
   --toc-box-bg-color: #ffeb7e; /* 17.  TOC box background color */
   --toc-box-border: 1px solid navy; /* 18. TOC box border definition */
 
-  --stu-note-background-color: #fff2ff; /* 19. (STU) Note box background color */
-  --stu-note-border-left-color: #ffa0ff; /* 20. (STU) Note box border color */
+  --stu-note-background-color: #fff2ff !important; /* 19. (STU) Note box background color */
+  --stu-note-border-left-color: #ffa0ff !important; /* 20. (STU) Note box border color */
 
   --ig-header-color: #f5f5f5; /* 21. Header color (sides) */
   --ig-header-container-color: #ffffff; /* 22. Header container color (center) */
