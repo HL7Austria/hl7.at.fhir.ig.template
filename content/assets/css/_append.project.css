@@ -3,13 +3,13 @@
   --ig-right: right;
 
   --ig-status-text-color: maroon; /* 1. IG Title and status text color */
-  --navbar-bg-color: #7b1fad !important; /* 2. Header container color */
-  --footer-bg-color: #707070 !important; /* 3. Footer background color*/
-  --footer-container-bg-color: #7b1fad !important; /* 4. Footer container color */
-  --stripe-bg-color: #999999 !important; /* 5. Header strip color */
+  --navbar-bg-color: #D00101 !important; /* 2. Header container color */
+  --footer-bg-color: #343A40 !important; /* 3. Footer background color*/
+  --footer-container-bg-color: #343A40 !important; /* 4. Footer container color */
+  --stripe-bg-color: #D00101 !important; /* 5. Header strip color */
 
-  --btn-hover-color: #10416b !important;  /* 6. Menu button hover color */
-  --btn-active-color: #da0c23 !important; /* 7. Menu button active color */
+  --btn-hover-color: #cf2727 !important;  /* 6. Menu button hover color */
+  --btn-active-color: #ac0d1f !important; /* 7. Menu button active color */
   --btn-text-color: #e6e6e6 !important; /* 8. Menu button text color */
   --btn-gradient-start-color: #8A3636; /* 9. Menu item gradient start color */
   --btn-gradient-end-color: #742828; /* 10. Menu item gradient end  color */
@@ -18,7 +18,7 @@
   --link-color: #428bca; /* 13. Hyperlink text color */
   --link-hover-color: #2a6496; /* 14. Hyperlink text hover color */
 
-  --publish-box-bg-color: yellow; /* 15. Publish box background color */
+  --publish-box-bg-color: #FAD8B2; /* 15. Publish box background color */
   --publish-box-border: 1px solid #0A0008; /* 16.  Publish box border definition */
 
   --toc-box-bg-color: #ffeb7e; /* 17.  TOC box background color */
