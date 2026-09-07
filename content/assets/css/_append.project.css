@@ -2,11 +2,11 @@
   --ig-left: left;
   --ig-right: right;
 
-  --ig-status-text-color: maroon; /* 1. IG Title and status text color */
-  --navbar-bg-color: #D00101 !important; /* 2. Header container color */
+  --ig-status-text-color: EF3340; /* 1. IG Title and status text color */
+  --navbar-bg-color: #EF3340 !important; /* 2. Header container color */
   --footer-bg-color: #343A40 !important; /* 3. Footer background color*/
   --footer-container-bg-color: #343A40 !important; /* 4. Footer container color */
-  --stripe-bg-color: #D00101 !important; /* 5. Header strip color */
+  --stripe-bg-color: #EF3340 !important; /* 5. Header strip color */
 
   --btn-hover-color: #cf2727 !important;  /* 6. Menu button hover color */
   --btn-active-color: #ac0d1f !important; /* 7. Menu button active color */
@@ -27,7 +27,7 @@
   --stu-note-background-color: #fff2ff !important; /* 19. (STU) Note box background color */
   --stu-note-border-left-color: #ffa0ff !important; /* 20. (STU) Note box border color */
 
-  --ig-header-color: #f5f5f5; /* 21. Header color (sides) */
+  --ig-header-color: #ffffff; /* 21. Header color (sides) */
   --ig-header-container-color: #ffffff; /* 22. Header container color (center) */
   --footer-nav-bg-color: #f5f5f5; /* 23. Footer navigation background color*/
 
