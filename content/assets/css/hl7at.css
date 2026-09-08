@@ -19,11 +19,11 @@
   --link-color: #428bca; /* 13. Hyperlink text color */
   --link-hover-color: #2a6496; /* 14. Hyperlink text hover color */
 
-  --publish-box-bg-color: #FEDFC3; /* 15. Publish box background color */
+  --publish-box-bg-color: #fee892; /* 15. Publish box background color */
   --publish-box-border: 1.5px solid #0A0008; /* 16.  Publish box border definition */
   --publish-box-border-radius: 15px; /* Publish box border radius definition */
 
-  --toc-box-bg-color: #FEDFC3; /* 17.  TOC box background color */
+  --toc-box-bg-color: #fee892; /* 17.  TOC box background color */
   --toc-box-border: 1.5px solid #0A0008; /* 18. TOC box border definition */
 
   --stu-note-background-color: #fff2ff !important; /* 19. (STU) Note box background color */
@@ -52,7 +52,7 @@
   margin-bottom: 16px;
 }
 
-.navbar .nav > .active > a:hover,
-.navbar .nav > .active > a:focus {
+.navbar .nav > li > a:hover,
+.navbar .nav > li > a:focus {
   border-radius: 0px 0px 0px 5px;
 }
