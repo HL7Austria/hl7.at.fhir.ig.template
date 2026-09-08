@@ -4,8 +4,6 @@
 
   --ig-status-text-color: #ac0d1f; /* 1. IG Title and status text color */
   --navbar-bg-color: #D00101 !important; /* 2. Header container color */
-  --navbar-border-radius: 0px 0px 15px 15px;
-  --navbar-margin-bottom: 50px;
 
   --footer-bg-color: #343A40 !important; /* 3. Footer background color*/
   --footer-container-bg-color: #343A40 !important; /* 4. Footer container color */
@@ -47,4 +45,12 @@
 
   --translation-background-color: #f0f0f0; /* 31. Translation box background color */
   --translation-text-color: black; /* 32. Translation text color */
+}
+
+#hl7-nav {
+  line-height: 50px;
+  border-radius: 15px;
+  float: var(--ig-left);
+  margin-top: 4px;
+  margin-bottom: 16px;
 }
