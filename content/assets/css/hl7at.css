@@ -11,7 +11,7 @@
 
   --btn-hover-color: #cf2727 !important;  /* 6. Menu button hover color */
   --btn-active-color: #ac0d1f !important; /* 7. Menu button active color */
-  --btn-text-color: #e6e6e6 !important; /* 8. Menu button text color */
+  --btn-text-color: #ffffff !important; /* 8. Menu button text color */
   --btn-gradient-start-color: #8A3636; /* 9. Menu item gradient start color */
   --btn-gradient-end-color: #742828; /* 10. Menu item gradient end  color */
   --btn-gradient-start-color-alpha: #ff428bca; /* 11. Menu item gradient start color (with alpha) */
@@ -49,10 +49,19 @@
 /* changes to the navigation bar/menu at the top */
 .navbar {
   border-radius: 0px 0px 5px 5px;
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
-.navbar .nav > li:first > a:hover,
-.navbar .nav > li:first > a:focus {
+.navbar-inverse .navbar-nav > li:first-of-type > a:hover, .navbar-inverse .navbar-nav > li:first-of-type > a:focus {
+  color: #ffffff;
+  background-color: var(--btn-hover-color);
   border-radius: 0px 0px 0px 5px;
+}
+
+#ig-status {
+  font-size: 16pt;
+}
+
+#stripe {
+  height: 5px;
 }
