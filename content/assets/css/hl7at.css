@@ -4,6 +4,9 @@
 
   --ig-status-text-color: #ac0d1f; /* 1. IG Title and status text color */
   --navbar-bg-color: #D00101 !important; /* 2. Header container color */
+  --navbar-border-radius: 0px 0px 15px 15px;
+  --navbar-margin-bottom: 50px;
+
   --footer-bg-color: #343A40 !important; /* 3. Footer background color*/
   --footer-container-bg-color: #343A40 !important; /* 4. Footer container color */
   --stripe-bg-color: #D00101 !important; /* 5. Header strip color */
@@ -18,11 +21,12 @@
   --link-color: #428bca; /* 13. Hyperlink text color */
   --link-hover-color: #2a6496; /* 14. Hyperlink text hover color */
 
-  --publish-box-bg-color: #f7972a; /* 15. Publish box background color */
-  --publish-box-border: 1px solid #0A0008; /* 16.  Publish box border definition */
+  --publish-box-bg-color: #FEDFC3; /* 15. Publish box background color */
+  --publish-box-border: 1.5px solid #0A0008; /* 16.  Publish box border definition */
+  --publish-box-border-radius: 15px; /* Publish box border radius definition */
 
-  --toc-box-bg-color: yellow; /* 17.  TOC box background color */
-  --toc-box-border: 1px solid navy; /* 18. TOC box border definition */
+  --toc-box-bg-color: #FEDFC3; /* 17.  TOC box background color */
+  --toc-box-border: 1.5px solid #0A0008; /* 18. TOC box border definition */
 
   --stu-note-background-color: #fff2ff !important; /* 19. (STU) Note box background color */
   --stu-note-border-left-color: #ffa0ff !important; /* 20. (STU) Note box border color */
