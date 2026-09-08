@@ -46,12 +46,13 @@
   --translation-background-color: #f0f0f0; /* 31. Translation box background color */
   --translation-text-color: black; /* 32. Translation text color */
 }
-
+/* changes to the navigation bar/menu at the top */
 .navbar {
   border-radius: 0px 0px 5px 5px;
   margin-bottom: 16px;
 }
 
-.navbar > div > div > ul > li:hover {
+.navbar > div > div > ul > li:hover,
+.navbar > div > div > ul > li:focus {
   border-radius: 0px 0px 0px 5px;
 }
