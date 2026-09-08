@@ -48,6 +48,12 @@
 }
 
 .navbar {
-  border-radius: 0px 0px 15px 15px;
+  border-radius: 0px 0px 5px 5px;
   margin-bottom: 16px;
+}
+
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+  border-radius: 0px 0px 5px 5px;
 }
