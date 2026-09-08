@@ -47,10 +47,8 @@
   --translation-text-color: black; /* 32. Translation text color */
 }
 
-#hl7-nav {
-  line-height: 50px;
+.navbar {
   border-radius: 15px;
-  float: var(--ig-left);
   margin-top: 4px;
   margin-bottom: 16px;
 }
