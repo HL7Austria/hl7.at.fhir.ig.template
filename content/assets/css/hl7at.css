@@ -52,7 +52,7 @@
   margin-bottom: 16px;
 }
 
-.navbar .nav > li > a:hover,
-.navbar .nav > li > a:focus {
+.navbar .nav > li:first > a:hover,
+.navbar .nav > li:first > a:focus {
   border-radius: 0px 0px 0px 5px;
 }
