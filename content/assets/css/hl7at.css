@@ -21,7 +21,6 @@
 
   --publish-box-bg-color: #fee892; /* 15. Publish box background color */
   --publish-box-border: 1.5px solid #0A0008; /* 16.  Publish box border definition */
-  --publish-box-border-radius: 15px; /* Publish box border radius definition */
 
   --toc-box-bg-color: #fee892; /* 17.  TOC box background color */
   --toc-box-border: 1.5px solid #0A0008; /* 18. TOC box border definition */
@@ -64,4 +63,15 @@
 
 #stripe {
   height: 5px;
+}
+
+#publish-box {
+  background-color: var(--publish-box-bg-color);
+  border: var(--publish-box-border);
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#toc-box {
+  border-radius: 5px;
 }
