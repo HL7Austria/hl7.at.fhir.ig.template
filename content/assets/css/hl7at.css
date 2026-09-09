@@ -2,7 +2,7 @@
   --ig-left: left;
   --ig-right: right;
 
-  --ig-status-text-color: #ac0d1f; /* 1. IG Title and status text color */
+  --ig-status-text-color: black; /* 1. IG Title and status text color */
   --navbar-bg-color: #D00101 !important; /* 2. Header container color */
 
   --footer-bg-color: #343A40 !important; /* 3. Footer background color*/
@@ -12,8 +12,8 @@
   --btn-hover-color: #cf2727 !important;  /* 6. Menu button hover color */
   --btn-active-color: #ac0d1f !important; /* 7. Menu button active color */
   --btn-text-color: #ffffff !important; /* 8. Menu button text color */
-  --btn-gradient-start-color: #8A3636; /* 9. Menu item gradient start color */
-  --btn-gradient-end-color: #742828; /* 10. Menu item gradient end  color */
+  --btn-gradient-start-color: #b11d1d; /* 9. Menu item gradient start color */
+  --btn-gradient-end-color: #8c0b1a; /* 10. Menu item gradient end  color */
   --btn-gradient-start-color-alpha: #ff428bca; /* 11. Menu item gradient start color (with alpha) */
   --btn-gradient-end-color-alpha: #ff357ebd; /* 12. Menu item gradient end color (with alpha) */
   --link-color: #428bca; /* 13. Hyperlink text color */
@@ -58,7 +58,8 @@
 }
 
 #ig-status {
-  font-size: 16pt !important;
+  font-size: 24pt !important;
+  color: #0A0008 !important;
 }
 
 #stripe {
