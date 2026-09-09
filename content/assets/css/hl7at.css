@@ -58,7 +58,7 @@
 }
 
 #ig-status {
-  font-size: 16pt;
+  font-size: 16pt !important;
 }
 
 #stripe {
@@ -73,5 +73,9 @@
 }
 
 #toc-box {
+  border-radius: 5px;
+}
+
+div.markdown-toc {
   border-radius: 5px;
 }
