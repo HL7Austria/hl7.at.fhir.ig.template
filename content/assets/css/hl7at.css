@@ -36,8 +36,8 @@
   --footer-hyperlink-text-color: #81BEF7; /* 25. Footer hyperlinks font color */
   --footer-highlight-text-color: #ffffff; /* 26. Footer highlight font color */
 
-  --breadcrumb-bg-color: #ffffff; /* 27. Breadcrumb font color */
-  --breadcrumb-text-color: #000000; /* 28. Breadcrumb font color */
+  --breadcrumb-bg-color: #ffffff !important; /* 27. Breadcrumb font color */
+  --breadcrumb-text-color: #000000 !important; /* 28. Breadcrumb font color */
 
   --dragon-background-color: #fffbf7; /* 29. Dragon background color */
   --dragon-text-color: #101020; /* 30. Dragon font color */
