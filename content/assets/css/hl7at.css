@@ -82,10 +82,10 @@ div.markdown-toc {
 }
 
 .breadcrumb {
-  margin-bottom: 4px;
-  background-color: var(--breadcrumb-bg-color);
+  margin-bottom: 4px !important;
+  background-color: var(--breadcrumb-bg-color) !important;
 }
 
 .breadcrumb a {
-  color: var(--breadcrumb-text-color);
+  color: var(--breadcrumb-text-color) !important;
 }
