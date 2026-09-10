@@ -80,3 +80,12 @@
 div.markdown-toc {
   border-radius: 5px;
 }
+
+.breadcrumb {
+  margin-bottom: 4px;
+  background-color: var(--breadcrumb-bg-color);
+}
+
+.breadcrumb a {
+  color: var(--breadcrumb-text-color);
+}
